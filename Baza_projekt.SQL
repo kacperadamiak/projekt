@@ -1,4 +1,5 @@
-﻿CREATE TABLE `Uzytkownicy/Klienci`
+﻿
+CREATE TABLE `Uzytkownicy/Klienci`
 (
   `id_klient` Int(11) NOT NULL,
   `imie` Varchar(20) NOT NULL,
